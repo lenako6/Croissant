@@ -1,0 +1,17 @@
+h1,
+h5 {
+  text-align: center;
+}
+body {
+  background: rgb(244, 148, 148);
+}
+footer {
+  display: block;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
